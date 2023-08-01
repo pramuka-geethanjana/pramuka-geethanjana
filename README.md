@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/pramukagee" target="blank"><img src="https://img.shields.io/twitter/follow/pramukagee?logo=twitter&style=for-the-badge" alt="pramukagee" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce website on Wordpress**
+- 🔭 I’m currently working on **a E-Commerce website on Wordpress**
 
 - 🌱 I’m currently learning **Machine learning**
 
