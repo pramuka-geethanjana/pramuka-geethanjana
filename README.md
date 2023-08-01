@@ -1,17 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pramuka Geethanjana</h1>
-<h3 align="center">I'm a passionate html, CSS, JavaScript developer.</h3>
+<h3 align="center">I'm a passionate html, CSS, PHP and JavaScript developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pramuka-geethanjana&label=Profile%20views&color=0e75b6&style=flat" alt="pramuka-geethanjana" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pramuka-geethanjana" alt="pramuka-geethanjana" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/pramukagee" target="blank"><img src="https://img.shields.io/twitter/follow/pramukagee?logo=twitter&style=for-the-badge" alt="pramukagee" /></a> </p>
 
-- 🔭 I’m currently working on **E-Prescription project for NSBM Green University.**
+- 🔭 I’m currently working on **E-Commerce website on Wordpress**
 
-- 🌱 I’m currently learning **Mobile App Development**
-
-- 📝 I regularly write articles on [footwalkz.com](footwalkz.com)
+- 🌱 I’m currently learning **Machine learning**
 
 - 📫 How to reach me **lakshanpramuka@gmail.com**
 
