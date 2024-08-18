@@ -1,27 +1,32 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Pramuka 👋
 
 ### 🌟 Aspiring QA Engineer | Computer Science Graduate
 
-I'm a recent Computer Science graduate from Plymouth University, UK, focused on becoming a QA Engineer. I'm passionate about software quality and testing, and I'm currently expanding my skills in quality assurance methodologies, automation, and best practices.
+I'm a recent Computer Science graduate from Plymouth University, UK, with a strong focus on becoming a skilled QA Engineer. I'm currently expanding my expertise in both manual and automated testing.
+
+### 🛠️ Tools & Technologies
+- **JMeter**: For performance and load testing.
+- **Postman**: For API testing and automation.
+- **Java**: Learning deeply to transition into automation testing.
+- **Test Case Writing**: Crafting detailed and effective test cases.
 
 ### 🔍 What I'm Working On
-- Learning and applying various testing frameworks and tools.
-- Building sample projects to showcase my testing skills.
-- Collaborating on open-source projects to contribute and learn.
+- Enhancing my knowledge of Java to build strong foundations for automation testing.
+- Practicing with JMeter and Postman to solidify my API and performance testing skills.
+- Writing test cases for sample projects to improve my QA processes.
 
 ### 🚀 My Goals
-- Master automation testing with tools like Selenium, Cypress, and others.
-- Gain hands-on experience with continuous integration (CI) and continuous deployment (CD) pipelines.
-- Keep improving my problem-solving and analytical skills in QA.
+- Master automation testing using Java-based tools like Selenium.
+- Develop robust testing strategies and frameworks.
+- Contribute to open-source projects to apply and sharpen my QA skills.
 
 ### 📚 Learning Journey
-- Exploring advanced QA techniques.
-- Enhancing my coding skills to write more effective test scripts.
-- Staying updated with the latest trends in software testing.
+- Deep diving into Java for automation testing.
+- Continuously improving my test case writing and execution.
+- Keeping up with the latest trends in software testing and quality assurance.
 
 ### 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/pramuka-geethanjana-a77187253/)
+- [Email](mailto:your-lakshanpramuka@gmail.com)
 
-Thanks for stopping by!
+Thanks for visiting my profile!
