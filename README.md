@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pramuka Geethanjana</h1>
-<h3 align="center">I'm a passionate html, CSS, PHP and JavaScript developer.</h3>
+<h3 align="center">I'm a passionate java, software testing and QA Engineer.</h3>
 
 
 <p align="left"> <a href="https://twitter.com/pramukagee" target="blank"><img src="https://img.shields.io/twitter/follow/pramukagee?logo=twitter&style=for-the-badge" alt="pramukagee" /></a> </p>
 
-- 🔭 I’m currently working on **a E-Commerce website on Wordpress**
-
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **JMeter, Postman and Automation Testing**
 
 - 📫 How to reach me **lakshanpramuka@gmail.com**
 
